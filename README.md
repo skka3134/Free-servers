@@ -21,9 +21,9 @@
 [![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](static/README-bn.md)
   
 </div>
-<h2>点击加入 Telegram 电报交流群：</h2>
+<h2>点击获取每日最新节点：</h2>
 <blockquote>
-<p style="text-align: center;"><a href="https://t.me/qiangfanfan">https://t.me/qiangfanfan</a></p>
+<p style="text-align: center;"><a href="https://fakeyou.top/">ttps://fakeyou.top/</a></p>
 </blockquote>
 <h2>免费节点及订阅地址：</h2>
 <blockquote>
