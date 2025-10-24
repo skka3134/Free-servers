@@ -36,14 +36,6 @@ vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4yNSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZk
 *   **订阅地址一 (部分节点):** [**点击此处一键订阅**](https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub)
 *   **订阅地址二 (部分节点):** [**点击此处一键订阅**](https://mirror.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub)
 
-> **重要提示：**
-> *   **获取更多节点与高级功能：**
->     我们强烈推荐您下载我们的官方APP **[ShadowShare](https://shadowsharing.com)** (同时支持iOS和Android)。通过APP，您可以获取所有免费节点、订阅地址，并使用内置的订阅转换工具。
-> *   **安卓用户专属：**
->     我们建议安卓用户直接使用 **[Shadowrocket for Android](https://github.com/Pawdroid/shadowrocket_for_android)**，该版本已预置所有免费节点，无需手动配置。
-> *   **国内iOS用户须知：**
->     鉴于App Store的政策不确定性，建议您尽早 [**下载并保留ShadowShare**](https://apps.apple.com/cn/app/shadowshare/id1612647259)，以防应用未来可能被下架。
-
 ---
 
 ## **专业级VPN推荐：Surflare**
