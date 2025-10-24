@@ -1,9 +1,5 @@
 <div align="center">
 
-**选择您的语言 (Select YourLanguage):**
-
-[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](README.md) [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](static/README-en.md) [![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](static/README-hi.md) [![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](static/README-bn.md)
-
 **联系与关注 (Contact & Follow):**
 
 [![YouTube](https://img.shields.io/badge/YouTube-%E6%B3%95%E5%85%8B%E9%B1%BF-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@%E6%B3%95%E5%85%8B%E9%B1%BF-l3m)
