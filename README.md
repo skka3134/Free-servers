@@ -27,11 +27,6 @@ vmess://eyJhZGQiOiAiMTA0LjIxLjIzOC4yMTEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZm
 vmess://eyJhZGQiOiAiMTA0LjI2LjAuMzciLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG9udGVudC1TYW5zXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiYmM2NWZhYzItN2RjNy00MjZmLWFjZGQtMDc3OWE1MDM1YmRlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInAxLjYxMzA1NS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
 vmess://eyJhZGQiOiAiMTA0LjE4LjExNC4yNSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicDEuNjEzMDU1Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==
 
-### 永久免费节点订阅地址
-
-*   订阅地址一 (部分节点): [**点击此处一键订阅**](https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub)
-*   订阅地址二 (部分节点): [**点击此处一键订阅**](https://mirror.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub)
-
 ---
 
 ## **专业级VPN推荐：Surflare**
