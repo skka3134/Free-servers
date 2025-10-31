@@ -61,9 +61,8 @@
  🔄 订阅链接转换
 
 如果您的客户端不支持直接导入节点，可以使用在线工具将其转换为标准订阅格式：
-*   SubWork： [https://subwork.top/](https://subwork.top/)
 
- ⬇️ 主流客户端下载
+*   SubWork： [https://subwork.top/](https://subwork.top/)
 
 # V2Ray 客户端
 *   💻 Windows:
