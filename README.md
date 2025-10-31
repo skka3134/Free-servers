@@ -84,7 +84,6 @@
 *   🍎 macOS: [官方下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
 *   🍏 iOS:
     *   请在 App Store 搜索以下应用：Mume (暮梅), Potatso Lite, FastSocks 或 Shadowrocket (小火箭)。
-
 ---
 
 ## 💡 新手使用指南与常见问题 (FAQ)
@@ -107,12 +106,6 @@
 
 *   问：免费节点安全吗？
     *   答： 我们分享的节点均来自互联网公开渠道，无法保证其绝对的隐私安全。在处理银行账户、密码等高度敏感信息时，强烈建议使用像 [奶昔机场](https://naiixi.com/signupbyemail.aspx?MemberCode=b2f3ab200e774fd5b921e274669c900420251030144409) 这样有信誉保障的付费服务。
-
-*   问：我应该选择哪个客户端？
-    *   答：
-        *   新手用户： 推荐界面友好、操作简单的 Clash 系列客户端或 V2rayN/V2rayNG。
-        *   安卓用户： [安卓小火箭](https://github.com/Pawdroid/shadowrocket_for_android/releases) 已内置免费节点，最为便捷。
-        *   进阶用户： 如果您有自定义规则等高级需求，Clash 和 Quantumult X 提供了更强大的功能。
 
 ---
 
