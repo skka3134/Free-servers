@@ -9,9 +9,10 @@
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-%E6%B3%95%E5%85%8B%E9%B1%BF-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@%E6%B3%95%E5%85%8B%E9%B1%BF-l3m) [![Telegram](https://img.shields.io/badge/Telegram-%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%E9%A2%91%E9%81%93-blue?style=for-the-badge&logo=telegram)](https://t.me/myshxx_bot) [![Telegram](https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91-blue?style=for-the-badge&logo=telegram)](https://t.me/myshxx_bot)
+<br>
+[![流量卡办理](https://img.shields.io/badge/-%E6%B5%81%E9%87%8F%E5%8D%A1%E5%8A%9E%E7%90%86-orange?style=for-the-badge)](https://h5.lot-ml.com/ProductEn/Index/70fedaf6239f2173)
 
 </div>
-
 ---
 
 ## ⚡️ 高速稳定的科学上网解决方案
